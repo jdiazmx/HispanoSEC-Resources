@@ -265,6 +265,27 @@ Libro introductorio sobre conceptos y algoritmos criptográficos.
 * [Poodle Attack](https://www.genbeta.com/seguridad/poodle-asi-es-el-ataque-que-deja-por-fin-obsoleto-a-sslv3)</br>
 Ataque criptográfico a SSL (completamente parchado por browsers y servers), pero interesante para analizar.
 
+# Esteganografía
+
+* [Cheatsheet Steganography 101](https://pequalsnp-team.github.io/cheatsheet/steganography-101)</br>
+Cheatsheet básico sobre métodos empleados en esteganografía.
+* [Cheatsheet 2](https://trailofbits.github.io/ctf/forensics/)</br>
+Cheatsheet que explica de forma un poco más completa métodos y herramientas empleados en esteganografía.
+* [File format descriptions](https://github.com/corkami/pics/blob/master/binary/README.md)</br>
+Descripción de los formatos de los distintos tipos de archivos con imágenes muy interesantes.
+
+### Tools:
+
+* [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit)</br>
+Imagen de docker que incluye decenas de herramientas de esteganografía, muy utiles para los CTFs.
+
+# Forensia
+
+* [Análisis Forense Digital](https://www.oas.org/juridico/spanish/cyb_analisis_foren.pdf)</br>
+Breve libro que explica procedimientos llevados a cabo a la hora de realizar un análisis forense digital.
+
+* [Coold boot attacks](https://www.youtube.com/watch?v=XfUlRsE3ymQ)</br>
+Al apagar la PC los datos de la RAM permanecen por un instante de tiempo y pueden ser recuperados luego de apagar la PC. En la descripción del video hay links para crear un usb booteable que trata de leer los datos que aun persisten en la RAM.
 
 # Hardening
 
@@ -285,14 +306,6 @@ Tips para securizar un servidor Apache.
 
 * [BIND DNS Server Hardening](https://securiteam.com/unixfocus/5up0l0u5gy/)</br>
 Guía completa sobre como instalar un servidor DNS BIND y securizarlo.
-
-# Forensia
-
-* [Análisis Forense Digital](https://www.oas.org/juridico/spanish/cyb_analisis_foren.pdf)</br>
-Breve libro que explica procedimientos llevados a cabo a la hora de realizar un análisis forense digital.
-
-* [Coold boot attacks](https://www.youtube.com/watch?v=XfUlRsE3ymQ)</br>
-Al apagar la PC los datos de la RAM permanecen por un instante de tiempo y pueden ser recuperados luego de apagar la PC. En la descripción del video hay links para crear un usb booteable que trata de leer los datos que aun persisten en la RAM.
 
 # CTF platforms
 
