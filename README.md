@@ -299,6 +299,8 @@ Al apagar la PC los datos de la RAM permanecen por un instante de tiempo y puede
 * [CTF365](https://ctf365.com/)
 * [Hack The Box](https://www.hackthebox.eu/)
 * [WarZone elhacker.net](warzone.elhacker.net/)
+* [CTF Platforms](https://github.com/We5ter/Awesome-Platforms/blob/master/CTF-Platforms.md)</br>
+Repo de github que incluye una gran cantidad de CTF's para realizar en un entorno local.
 
 # Blogs
 
@@ -308,6 +310,9 @@ Al apagar la PC los datos de la RAM permanecen por un instante de tiempo y puede
 * [Linuxito](https://www.linuxito.com/)
 * [Criptored](http://www.criptored.upm.es/)
 * [TroyHunt](https://www.troyhunt.com/)
+* [Underc0de](https://underc0de.org/)
+* [elhacker.net](https://elhacker.net/)
+* [Null Byte](https://null-byte.wonderhowto.com/)
 
 # Web utilities
 
