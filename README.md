@@ -12,7 +12,7 @@ Explicación de ésta maravillosa técnica para hackear con solo copiar y pegar 
 
 # Malware 
 
-* [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/ )
+* [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/)
 
 * [Javascript Malware Explained](https://heimdalsecurity.com/blog/javascript-malware-explained/amp/)
 
@@ -27,6 +27,9 @@ Serie de posts algo viejos, pero que sirven para entender como funciona un crypt
 
 * [The Antivirus Hacker's Handbook](https://repo.zenk-security.com/Magazine%20E-book/Antivirus%20hackers%20handbook.pdf)</br>
 Libro completo sobre el funcionamiento interno de antivirus, métodos para reversearlos y poder bypassearlos.
+
+* [subverting-the-windows-kernel](https://www.pdfdrive.com/rootkits-subverting-the-windows-kernel-pdf-micropenguin-d12315832.html)</b>
+Libro sobre creación de rootkits para windows.
 
 ### Tools:
 
@@ -309,6 +312,10 @@ Tips para securizar un servidor Apache.
 * [BIND DNS Server Hardening](https://securiteam.com/unixfocus/5up0l0u5gy/)</br>
 Guía completa sobre como instalar un servidor DNS BIND y securizarlo.
 
+* [OWASP Secure Coding Practices](https://www.owasp.org/images/a/aa/OWASP_SCP_Quick_Reference_Guide_SPA.pdf)</br>
+Guía de OWASP sobre buenas prácticas para desarrollar aplicaciones seguras.
+
+
 # CTF platforms
 
 * [CTF365](https://ctf365.com/)
@@ -348,6 +355,10 @@ Página todo en uno, con herramientas de defodificación, cifrado, subnetting, e
 
 * [Dcode](https://www.dcode.fr/)</br>
 Herramienta útil para decodificar automáticamente distintos tipos de mensajes codificados.
+
+* [HaveIbeenPwned](https://haveibeenpwned.com/)</br>
+Sitio en el que ingresamos nuestro e-mail y nos informa si hubo una filtración de datos en las que nuestra cuenta está involucrada.
+
 
 # More tools
 
