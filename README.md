@@ -30,6 +30,14 @@ Libro completo sobre el funcionamiento interno de antivirus, métodos para rever
 
 ### Tools:
 
+* [VirusTotal](https://www.virustotal.com/gui/home/upload)</br>
+Famosa web para escanear malware con multiples antivirus. Lo malo es que venden copias de los malwares subidos a empresas de antivirus.
+
+* [NoDistribute](https://nodistribute.com/)</br>
+Web para escanear malware, tal vez con menos antivirus que VirusTotal, pero proclama no vender ni distribuir copias de malware a empresas de antivirus.
+
+* [Metadefender OPSWAT](https://metadefender.opswat.com/#!/)</br>
+
 * [nuk3gh0st](https://github.com/JuanSchallibaum/Nuk3Gh0st)</br>Universal LKM rootkit que compila en la mayoría de distros y kernels. No funciona en sistemas multicore. Sirve para ocultar archivos, procesos y conexiones para que sean invisibles por el sistema operativo.
 
 # Hacking web
@@ -288,9 +296,9 @@ Al apagar la PC los datos de la RAM permanecen por un instante de tiempo y puede
 
 # CTF platforms
 
-* [CTF365](https://ctf365.com/)</br>
-* [Hack The Box](https://www.hackthebox.eu/)</br>
-* [WarZone elhacker.net](warzone.elhacker.net/)</br>
+* [CTF365](https://ctf365.com/)
+* [Hack The Box](https://www.hackthebox.eu/)
+* [WarZone elhacker.net](warzone.elhacker.net/)
 
 # Blogs
 
@@ -301,25 +309,28 @@ Al apagar la PC los datos de la RAM permanecen por un instante de tiempo y puede
 * [Criptored](http://www.criptored.upm.es/)
 * [TroyHunt](https://www.troyhunt.com/)
 
+# Web utilities
+
+* [Shodan](https://www.shodan.io/)</br>
+El buscador de los hackers. Funciona distinto a los buscadores convencionales. No usa spiders para encontrar páginas web, sino que es un buscador de dispositivos conectados a Internet.
+
+* [bgp.he.net](https://bgp.he.net/)</br>
+Página completa para encontrar sistemas autónomos buscando por IP o palabras claves.
+
 # More tools
 
-*[Python pentest tools](https://github.com/dloss/python-pentest-tools)</br>
+* [Python pentest tools](https://github.com/dloss/python-pentest-tools)</br>
 Compilado con muchísimas tools escritas en python para realizar pentesting en sus distintas áreas.
 
 # More books
 
-*[Libros para principiantes](https://foro.elhacker.net/dudas_generales/listado_de_libros_para_principiantes-t497312.0.html)</br>
+* [Libros para principiantes](https://foro.elhacker.net/dudas_generales/listado_de_libros_para_principiantes-t497312.0.html)</br>
 Listado completo de libros sobre programación, criptografía, y pentesting.
 
-**Se ira acomodando a medida se agreguen cosas.**
+# Random webs
 
-## Secciones
+* [Internet Map](http://as2914.net/#/?_k=a39i1a)</br>
+Mapa de interconecciones entre sistemas autónomos que conforman a la Internet. Interfaz excelente en 3D hecha con three.js
 
-- [Blogs](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/blogs.md)
-- [Foros](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/foros.md)
-- [Plataformas](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/plataformas.md)
-- [Articulos](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/articulos.md)
-- [Herramientas](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/herramientas.md)
-- [Libros](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/libros.md)
-
-
+* [Submarine Cable Map](https://www.submarinecablemap.com/)</br>
+Mapa con los cables submarinos que mantienen al mundo conectado a Internet.
