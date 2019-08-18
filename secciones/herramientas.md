@@ -1,6 +1,7 @@
 # Herramientas
 
 
+[Multiples herramientas de Python para realizar Pentest - Creditos a dloss](https://github.com/dloss/python-pentest-tools)
 
 [Shodan](https://www.shodan.io/)
 
