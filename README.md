@@ -319,8 +319,20 @@ Repo de github que incluye una gran cantidad de CTF's para realizar en un entorn
 * [Shodan](https://www.shodan.io/)</br>
 El buscador de los hackers. Funciona distinto a los buscadores convencionales. No usa spiders para encontrar páginas web, sino que es un buscador de dispositivos conectados a Internet.
 
+* [ZoomEye](https://www.zoomeye.org/)</br>
+Buscador similar a Shodan de origen Chino que dice aportar más cantidad de información.
+
 * [bgp.he.net](https://bgp.he.net/)</br>
 Página completa para encontrar sistemas autónomos buscando por IP o palabras claves.
+
+* [BuiltWith](https://builtwith.com/)</br>
+Página que detecta las tecnologías empleadas en una web.
+
+* [CyberChef](https://gchq.github.io/CyberChef/)</br>
+Página todo en uno, con herramientas de defodificación, cifrado, subnetting, etc. 
+
+* [Dcode](https://www.dcode.fr/)</br>
+Herramienta útil para decodificar automáticamente distintos tipos de mensajes codificados.
 
 # More tools
 
