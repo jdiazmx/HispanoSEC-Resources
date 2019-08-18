@@ -269,8 +269,10 @@ Ataque criptográfico a SSL (completamente parchado por browsers y servers), per
 
 * [Cheatsheet Steganography 101](https://pequalsnp-team.github.io/cheatsheet/steganography-101)</br>
 Cheatsheet básico sobre métodos empleados en esteganografía.
+
 * [Cheatsheet 2](https://trailofbits.github.io/ctf/forensics/)</br>
 Cheatsheet que explica de forma un poco más completa métodos y herramientas empleados en esteganografía.
+
 * [File format descriptions](https://github.com/corkami/pics/blob/master/binary/README.md)</br>
 Descripción de los formatos de los distintos tipos de archivos con imágenes muy interesantes.
 
