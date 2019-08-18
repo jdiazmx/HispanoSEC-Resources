@@ -177,10 +177,16 @@ Con ésta guía podemos ver como crackear muy rápidamente una red Wi-Fi con cua
 * [Cracking WPA/WPA2 with rainbow tables](https://www.renderlab.net/projects/WPA-tables/)</br>
 Aquí se pueden descargar tablas rainbow para crackear passwords WPA/WPA2 a gran velocidad. Solo funciona con redes que tengan uno de los SSID's con los que se generaron las tablas rainbow. Se habla sobre la tool cowpatty.
 
-# Exploiting de binarios
+# Binary Exploitation
 
 * [Corelan.be](https://www.corelan.be/index.php/articles/)</br>
-Página con muchos artículos relacionados con exploiting de binarios en Windows de 32 bits.
+Página con muchos artículos relacionados con exploit writing para vulnerabilidades del tipo Stack Based Buffer Overflow en Windows de 32 bits.
+
+* [Heap exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/17/10_lecture.pdf)</br>
+Paper que explica muchas vulnerabilidades en binarios relacionadas con la heap: Heap Based Buffer Overflow, UAF (User After Free),Heap Spraying, y Metadata Corruption.
+
+* [Format String](https://fundacion-sadosky.github.io/guia-escritura-exploits/format-string/5-format-string.html)</br>
+Artículo que explica como explotar una vulerabilidad del tipo format string en binarios.
 
 # Privilege escalation
 
