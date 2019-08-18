@@ -8,10 +8,10 @@ Recursos relacionados a la ciberseguridad para aprender.
 
 ## Secciones
 
-- [Blogs](https://github.com/lannerxiii/IntroToCyberSec/blob/master/blogs)
-- [Foros](https://github.com/lannerxiii/IntroToCyberSec/blob/master/foros)
-- [Plataformas](https://github.com/lannerxiii/IntroToCyberSec/blob/master/plataformas)
-- [Articulos](https://github.com/lannerxiii/IntroToCyberSec/blob/master/articulos)
-- [Herramientas](https://github.com/lannerxiii/IntroToCyberSec/blob/master/herramientas)
-- [Libros](https://github.com/lannerxiii/IntroToCyberSec/blob/master/libros)
+- [Blogs](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/blogs.md)
+- [Foros](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/foros.md)
+- [Plataformas](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/plataformas.md)
+- [Articulos](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/articulos.md)
+- [Herramientas](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/herramientas.md)
+- [Libros](https://github.com/lannerxiii/IntroToCyberSec/blob/master/secciones/libros.md)
 
