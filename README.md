@@ -285,10 +285,31 @@ Breve libro que explica procedimientos llevados a cabo a la hora de realizar un 
 
 * [Coold boot attacks](https://www.youtube.com/watch?v=XfUlRsE3ymQ)</br>
 Al apagar la PC los datos de la RAM permanecen por un instante de tiempo y pueden ser recuperados luego de apagar la PC. En la descripción del video hay links para crear un usb booteable que trata de leer los datos que aun persisten en la RAM.
-=======
-------
 
-Recursos relacionados a la ciberseguridad para aprender.
+# CTF platforms
+
+* [CTF365](https://ctf365.com/)</br>
+* [Hack The Box](https://www.hackthebox.eu/)</br>
+* [WarZone elhacker.net](warzone.elhacker.net/)</br>
+
+# Blogs
+
+* [El lado del mal (Chema Alonso)](https://www.elladodelmal.com/)
+* [Hacker Players](https://www.hackplayers.com/)
+* [The Hacker News](https://thehackernews.com/)
+* [Linuxito](https://www.linuxito.com/)
+* [Criptored](http://www.criptored.upm.es/)
+* [TroyHunt](https://www.troyhunt.com/)
+
+# More tools
+
+*[Python pentest tools](https://github.com/dloss/python-pentest-tools)</br>
+Compilado con muchísimas tools escritas en python para realizar pentesting en sus distintas áreas.
+
+# More books
+
+*[Libros para principiantes](https://foro.elhacker.net/dudas_generales/listado_de_libros_para_principiantes-t497312.0.html)</br>
+Listado completo de libros sobre programación, criptografía, y pentesting.
 
 **Se ira acomodando a medida se agreguen cosas.**
 
