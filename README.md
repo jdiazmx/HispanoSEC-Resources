@@ -359,6 +359,12 @@ El buscador de los hackers. Funciona distinto a los buscadores convencionales. N
 * [ZoomEye](https://www.zoomeye.org/)</br>
 Buscador similar a Shodan de origen Chino que dice aportar más cantidad de información.
 
+* [Exploit Database](https://www.exploit-db.com/)</br>
+Mayor base de datos de exploits. También incluye una base de datos de dorks de google hacking, shellcodes y pappers.
+
+* [0day.today](https://0day.today/)</br>
+Otra base de datos de exploits. Algunos exploits son de pago.
+
 * [bgp.he.net](https://bgp.he.net/)</br>
 Página completa para encontrar sistemas autónomos buscando por IP o palabras claves.
 
