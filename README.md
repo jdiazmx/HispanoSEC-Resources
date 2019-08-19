@@ -383,6 +383,9 @@ Herramienta útil para decodificar automáticamente distintos tipos de mensajes 
 * [HaveIbeenPwned](https://haveibeenpwned.com/)</br>
 Sitio en el que ingresamos nuestro e-mail y nos informa si hubo una filtración de datos en las que nuestra cuenta está involucrada.
 
+* [Online regex tester](https://regex101.com/)</br>
+Sitio para testear si las regex que estamos utilizando son válidas para lo que necesitamos.
+
 
 # More tools
 
