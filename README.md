@@ -89,6 +89,12 @@ Explicación sobre como identificar y explotar una falla del tipo Server Side Te
 * [CSTI in AngularJS](https://portswigger.net/blog/xss-without-html-client-side-template-injection-with-angularjs)</br>
 Explicación de la vulnerabilidad Client Side Template Injection, y como efectuarla cuando encontramos un sitio con AngularJS.
 
+* [Type jugling](https://www.hackplayers.com/2018/03/hashes-magicos-en-php-type-jugling.html)</br>
+Explicación de la importancia de utilizar '===' en lugar '==' en PHP a la hora de comparar hashes de contraseñas.
+
+* [Hacking JWT](https://medium.com/101-writeups/hacking-json-web-token-jwt-233fe6c862e6)</br>
+Artículo que da una breve explicación sobre JSON Web Token como método de manejo de sesiones en lugar de cookies, y las posibles formas de hackearlo.
+
 * [Bypassing Anti-CSRF tokens](https://haiderm.com/10-methods-to-bypass-cross-site-request-forgery-csrf/)</br>
 10 métodos para explotar un CSRF incluso cuando existen tokens anti-CSRF.
 
