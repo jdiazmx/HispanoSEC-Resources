@@ -12,11 +12,14 @@ Explicación de ésta maravillosa técnica para hackear con solo copiar y pegar 
 
 # Malware 
 
-* [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/)
+* [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/)</br>
+Lista de distintos malwares para descargar y analizar.
 
-* [Javascript Malware Explained](https://heimdalsecurity.com/blog/javascript-malware-explained/amp/)
+* [Javascript Malware Explained](https://heimdalsecurity.com/blog/javascript-malware-explained/amp/)</br>
+Explicación sobre malware hecho en javascript, y sus efectos letales.
 
-* [Ransomware %100 Javascript](https://nakedsecurity.sophos.com/es/2016/06/20/ransomware-thats-100-pure-javascript-no-download-required)
+* [Ransomware %100 Javascript](https://nakedsecurity.sophos.com/es/2016/06/20/ransomware-thats-100-pure-javascript-no-download-required)</br>
+Ransomware que es 100% puro JavaScript, sin necesidad de descargar
 
 * [1 - Introducción a los crypters](http://www.securitybydefault.com/2013/07/introduccion-los-crypters.html)</br>
 [2 - Funcionamiento de los crypters](http://www.securitybydefault.com/2013/07/funcionamiento-de-los-crypters.html)</br>
