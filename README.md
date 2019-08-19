@@ -343,7 +343,8 @@ Guía de OWASP sobre buenas prácticas para desarrollar aplicaciones seguras.
 Repo de github que incluye una gran cantidad de CTF's para realizar en un entorno local.
 
 # Blogs
-
+* [Hacking Articles] (https://www.hackingarticles.in/)
+* [Infocon] (https://infocon.org/cons/)
 * [El lado del mal (Chema Alonso)](https://www.elladodelmal.com/)
 * [Hacker Players](https://www.hackplayers.com/)
 * [The Hacker News](https://thehackernews.com/)
