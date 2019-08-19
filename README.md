@@ -45,6 +45,7 @@ Famosa web para escanear malware con multiples antivirus. Lo malo es que venden 
 Web para escanear malware, tal vez con menos antivirus que VirusTotal, pero proclama no vender ni distribuir copias de malware a empresas de antivirus.
 
 * [Metadefender OPSWAT](https://metadefender.opswat.com/#!/)</br>
+Servicio al que se le puede enviar archivos, IPs, dominios para detectar malware, contenido sensible, vulnerabilidades introducidas por las aplicaciones. La politica es: no confiar en ningún archivo ni dispositivo.
 
 * [nuk3gh0st](https://github.com/JuanSchallibaum/Nuk3Gh0st)</br>Universal LKM rootkit que compila en la mayoría de distros y kernels. No funciona en sistemas multicore. Sirve para ocultar archivos, procesos y conexiones para que sean invisibles por el sistema operativo.
 
