@@ -18,11 +18,11 @@ Explicación de ésta maravillosa técnica para hackear con solo copiar y pegar 
 
 * [Ransomware %100 Javascript](https://nakedsecurity.sophos.com/es/2016/06/20/ransomware-thats-100-pure-javascript-no-download-required)
 
-* [Introducción a los crypters](http://www.securitybydefault.com/2013/07/introduccion-los-crypters.html)</br>
-[Funcionamiento de los crypters](http://www.securitybydefault.com/2013/07/funcionamiento-de-los-crypters.html)</br>
-[El stub, la pieza clave del crypter](http://www.securitybydefault.com/2013/08/el-stub-la-pieza-clave-del-crypter.html)</br>
-[Modding 'Crypters': el arte de la evasión](http://www.securitybydefault.com/2013/08/modding-crypters-el-arte-de-la-evasion.html)</br>
-[Crypter: practicando la técnica dsplit/avfucker](http://www.securitybydefault.com/2013/09/crypters-practicando-la-tecnica.html)</br>
+* [1 - Introducción a los crypters](http://www.securitybydefault.com/2013/07/introduccion-los-crypters.html)</br>
+[2 - Funcionamiento de los crypters](http://www.securitybydefault.com/2013/07/funcionamiento-de-los-crypters.html)</br>
+[3 - El stub, la pieza clave del crypter](http://www.securitybydefault.com/2013/08/el-stub-la-pieza-clave-del-crypter.html)</br>
+[4 - Modding 'Crypters': el arte de la evasión](http://www.securitybydefault.com/2013/08/modding-crypters-el-arte-de-la-evasion.html)</br>
+[5 - Crypter: practicando la técnica dsplit/avfucker](http://www.securitybydefault.com/2013/09/crypters-practicando-la-tecnica.html)</br>
 Serie de posts algo viejos, pero que sirven para entender como funciona un crypter, la cuál es una herramienta para ofuscar malware y hacerlo indetectable por los antivirus.
 
 * [The Antivirus Hacker's Handbook](https://repo.zenk-security.com/Magazine%20E-book/Antivirus%20hackers%20handbook.pdf)</br>
@@ -200,7 +200,7 @@ Aquí se pueden descargar tablas rainbow para crackear passwords WPA/WPA2 a gran
 Página con muchos artículos relacionados con exploit writing para vulnerabilidades del tipo Stack Based Buffer Overflow en Windows de 32 bits.
 
 * [Heap exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/17/10_lecture.pdf)</br>
-Paper que explica muchas vulnerabilidades en binarios relacionadas con la heap: Heap Based Buffer Overflow, UAF (User After Free),Heap Spraying, y Metadata Corruption.
+Paper que explica muchas vulnerabilidades en binarios relacionadas con la heap: Heap Based Buffer Overflow, UAF (User After Free), Heap Spraying, y Metadata Corruption.
 
 * [Format String](https://fundacion-sadosky.github.io/guia-escritura-exploits/format-string/5-format-string.html)</br>
 Artículo que explica como explotar una vulerabilidad del tipo format string en binarios.
