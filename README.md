@@ -28,7 +28,7 @@ Serie de posts algo viejos, pero que sirven para entender como funciona un crypt
 * [The Antivirus Hacker's Handbook](https://repo.zenk-security.com/Magazine%20E-book/Antivirus%20hackers%20handbook.pdf)</br>
 Libro completo sobre el funcionamiento interno de antivirus, métodos para reversearlos y poder bypassearlos.
 
-* [subverting-the-windows-kernel](https://www.pdfdrive.com/rootkits-subverting-the-windows-kernel-pdf-micropenguin-d12315832.html)</b>
+* [Subverting the windows kernel](https://www.pdfdrive.com/rootkits-subverting-the-windows-kernel-pdf-micropenguin-d12315832.html)</br>
 Libro sobre creación de rootkits para windows.
 
 ### Tools:
