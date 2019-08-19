@@ -386,6 +386,9 @@ Sitio en el que ingresamos nuestro e-mail y nos informa si hubo una filtración 
 * [Online regex tester](https://regex101.com/)</br>
 Sitio para testear si las regex que estamos utilizando son válidas para lo que necesitamos.
 
+* [ListDiff](http://www.listdiff.com/compare-2-lists-difference-tool)</br>
+Sitio para comparar dos wordlists y ver que lineas aparecen solo en el primero de los dos, cuales aparecen solo en el segundo de los dos, cuales aparecen en ambos, y un merge de todas las lineas de ambos wordlist sin repetir. Con ésto podemos unir dos wordlist de password cracking en uno evitando que se repitan las palabras, o al hacer subdomain scrapping con dos tools distintas, como subfinder (más rápida y descubre más subdominios), y sublist3r (más lenta y descubre menos subdominios), y juntar todos los subdominios encontrados en un solo archivo.
+
 
 # More tools
 
