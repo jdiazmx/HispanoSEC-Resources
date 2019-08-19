@@ -3,9 +3,11 @@
 
 # Misceláneas
 
-* [Ataque dirigido con JS Botnet](http://www.elladodelmal.com/2012/07/ataque-dirigido-con-javascript-botnet.html?m=1 )
+* [Ataque dirigido con JS Botnet](http://www.elladodelmal.com/2012/07/ataque-dirigido-con-javascript-botnet.html?m=1)</br>
+Ataques dirigidos a webs cuando aún está conectada la víctima al payload, para que una vez que se desconecte, la web que visite esté infectada.
 
-* [Stealking wifi password via browsers cache poisoning](https://rhaidiz.net/2018/10/25/dribble-stealing-wifi-password-via-browsers-cache-poisoning/ )
+* [Stealking wifi password via browsers cache poisoning](https://rhaidiz.net/2018/10/25/dribble-stealing-wifi-password-via-browsers-cache-poisoning/ )</br>
+Artículo que indica como robar claves de wifi explotando la cache del navegador con javascript.
 
 * [Pastejacking](https://www.hackplayers.com/2017/11/comprometido-por-solo-copiar-y-pegar.html)</br>
 Explicación de ésta maravillosa técnica para hackear con solo copiar y pegar el contenido de una página.
