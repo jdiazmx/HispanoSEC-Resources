@@ -327,11 +327,11 @@ Tips para securizar un servidor Apache.
 * [BIND DNS Server Hardening](https://securiteam.com/unixfocus/5up0l0u5gy/)</br>
 Guía completa sobre como instalar un servidor DNS BIND y securizarlo.
 
-* [OWASP Secure Coding Practices](https://www.owasp.org/images/a/aa/OWASP_SCP_Quick_Reference_Guide_SPA.pdf)</br>
-Guía de OWASP sobre buenas prácticas para desarrollar aplicaciones seguras.
-
 * [FTP Server Hardening](https://likegeeks.com/ftp-server-linux/)</br>
 Guía sobre el funcionamiento e instalación de un servidor ftp en linux y como securizarlo.
+
+* [OWASP Secure Coding Practices](https://www.owasp.org/images/a/aa/OWASP_SCP_Quick_Reference_Guide_SPA.pdf)</br>
+Guía de OWASP sobre buenas prácticas para desarrollar aplicaciones seguras.
 
 
 # CTF platforms
