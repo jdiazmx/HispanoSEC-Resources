@@ -276,6 +276,9 @@ Libro de ingenieria social escrito por Kevin Mitnick, el hacker más famoso del 
 * [Introducción a la criptografía](https://www.ucm.es/data/cont/docs/72-2016-11-10-2%20Comunicaciones%20seguras.pdf)</br>
 Libro introductorio sobre conceptos y algoritmos criptográficos.
 
+* [Manual sobre GPG](https://www.genbeta.com/desarrollo/manual-de-gpg-cifra-y-envia-datos-de-forma-segura)</br>
+Tutorial sobre el uso de la herramienta gpg para emplear cifrado simétrico o asimétrico, exportar la clave pública a un servidor de claves, cifrar, descifrar, firmar y comprobar la firma de los archivos.
+
 * [Poodle Attack](https://www.genbeta.com/seguridad/poodle-asi-es-el-ataque-que-deja-por-fin-obsoleto-a-sslv3)</br>
 Ataque criptográfico a SSL (completamente parchado por browsers y servers), pero interesante para analizar.
 
