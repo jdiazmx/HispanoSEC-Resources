@@ -1,5 +1,8 @@
 # HispanoSEC-Resources
 
+**Disclaimer:** *HispanoSEC es una comunidad ética de estudiantes de seguridad informática, y toda la información disponible en éste repositorio está destinada al aprendizaje. El uso de las técnicas o herramientas disponibles está limitada a redes o sistemas personales o bajo el permiso y autorización del dueño de las mismas. Todo hacker ético debe aprender y contar con los mismos conocimientos que los piratas informáticos para asi lograr defenderse, y/o mejorar la seguridad de los sistemas.
+Los creadores de la comunidad no nos hacemos responsables por el mal uso del contenido incluído en éste repositorio.*
+
 # Getting Started
 
 * [Overthewire - Sitio web de Wargames para empezar desde 0](https://overthewire.org/wargames/)
