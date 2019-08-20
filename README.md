@@ -243,6 +243,9 @@ Bash script automatizado para lanzar muchos de los comandos de las guías anteri
 * [Cracking windows passwords](https://c43s4rs.blogspot.com/2017/03/cracking-windows-passwords.html)</br>
 Explicación sobre las contraseñas de windows LM y NTML, y los distintos métodos y tools empleadas para crackearlas.
 
+* [Crakcking ZIP Archive Passwords](https://penguin-systems.com/node/10)</br>
+Guía para crackear passworrds de archivos comprimidos en ZIP con las tools Hashcat y John the Ripper Jumbo.
+
 * [Funcionamiento de las Tablas Rainbow](https://www.semecayounexploit.com/?sec=password-cracking&nota=5)</br>
 Explicación sobre el funcionamiento de las tablas rainbow para crackear passwords de forma mucho más rápida y ocupando menos almacenamiento en disco (pero habiéndolas generado previamente, lo cuál lleva mucho tiempo). Por suerte existen muchas tablas rainbow ya generadas listas para descargar.
 
