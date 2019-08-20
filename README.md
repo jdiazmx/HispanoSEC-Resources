@@ -181,9 +181,6 @@ Tool para automatizar ataques DDoS.
 
 # Wi-Fi Hacking
 
-* [Pwning WiFi Networks con bettercap y PMKID](https://www.evilsocket.net/2019/02/13/Pwning-WiFi-networks-with-bettercap-and-the-PMKID-client-less-attack/)
-Explicación sobre nuevos tipos de ataques para descubrir claves WPA PSK sin clientes conectados en el AP
-
 * [WiFu](https://mega.nz/#!TcoUjZZY!fC4jyr__Be_kWMJJuGtICpTL_kaSYu4CZ-CTlEmv57k)</br>
 Libro bastante completo sobre el protocolo Wi-Fi, sus tipos de paqutes y distintos ataques en profundidad a redes WEP y WPA. Está escrito por los creadores de Kali Linux y es el material ofrecido por ellos para obtener la certificacion OSWP.
 
@@ -210,6 +207,9 @@ Con ésta guía podemos ver como crackear muy rápidamente una red Wi-Fi con cua
 
 * [Cracking WPA/WPA2 with rainbow tables](https://www.renderlab.net/projects/WPA-tables/)</br>
 Aquí se pueden descargar tablas rainbow para crackear passwords WPA/WPA2 a gran velocidad. Solo funciona con redes que tengan uno de los SSID's con los que se generaron las tablas rainbow. Se habla sobre la tool cowpatty.
+
+* [Pwning WiFi Networks con bettercap y PMKID](https://www.evilsocket.net/2019/02/13/Pwning-WiFi-networks-with-bettercap-and-the-PMKID-client-less-attack/)
+Explicación sobre nuevos tipos de ataques para descubrir claves WPA PSK sin clientes conectados en el AP
 
 # Binary Exploitation
 
