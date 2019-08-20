@@ -212,7 +212,7 @@ Con ésta guía podemos ver como crackear muy rápidamente una red Wi-Fi con cua
 Aquí se pueden descargar tablas rainbow para crackear passwords WPA/WPA2 a gran velocidad. Solo funciona con redes que tengan uno de los SSID's con los que se generaron las tablas rainbow. Se habla sobre la tool cowpatty.
 
 * [Pwning WiFi Networks con bettercap y PMKID](https://www.evilsocket.net/2019/02/13/Pwning-WiFi-networks-with-bettercap-and-the-PMKID-client-less-attack/)</br>
-Explicación sobre nuevos tipos de ataques para descubrir claves WPA PSK sin clientes conectados en el AP
+Explicación sobre nuevos tipos de ataques para descubrir claves WPA PSK sin clientes conectados en el AP.
 
 # Binary Exploitation
 
