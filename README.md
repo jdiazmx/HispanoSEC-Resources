@@ -305,6 +305,9 @@ Tutorial sobre el uso de la herramienta gpg para emplear cifrado simétrico o as
 * [Poodle Attack](https://www.genbeta.com/seguridad/poodle-asi-es-el-ataque-que-deja-por-fin-obsoleto-a-sslv3)</br>
 Ataque criptográfico a SSL (completamente parchado por browsers y servers), pero interesante para analizar.
 
+* [TLS Breacking Challange](https://ctf.rip/bsides-sf-ctf-2017-root-crypto-challenge/)</br>
+Guía para romper el cifrado asimétrico RSA empleado en TLS para retos CTF.
+
 # Esteganografía
 
 * [Cheatsheet Steganography 101](https://pequalsnp-team.github.io/cheatsheet/steganography-101)</br>
