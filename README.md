@@ -249,6 +249,11 @@ Guía para crackear passworrds de archivos comprimidos en ZIP con las tools Hash
 * [Funcionamiento de las Tablas Rainbow](https://www.semecayounexploit.com/?sec=password-cracking&nota=5)</br>
 Explicación sobre el funcionamiento de las tablas rainbow para crackear passwords de forma mucho más rápida y ocupando menos almacenamiento en disco (pero habiéndolas generado previamente, lo cuál lleva mucho tiempo). Por suerte existen muchas tablas rainbow ya generadas listas para descargar.
 
+### Wordlists:
+
+* [CrackStation](https://crackstation.net/)</br>
+Crackstation contiene tablas masivas precomputadas para crackear passwords
+
 ### Tools:
 
 * [Mimikats](https://github.com/gentilkiwi/mimikatz)</br>
