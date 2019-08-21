@@ -1,7 +1,57 @@
 # HispanoSEC-Resources
 
-**DISCLAIMER:** *HispanoSEC es una comunidad ética de estudiantes de seguridad informática, y toda la información disponible en éste repositorio está destinada al aprendizaje. El uso de las técnicas y herramientas disponibles está limitada a redes o sistemas personales o bajo el permiso y autorización del dueño de los mismos. Todo hacker ético debe aprender y contar con los mismos conocimientos que los piratas informáticos para asi lograr defenderse, y mejorar la seguridad de los sistemas.
-Los creadores de la comunidad **repudiamos y no permitimos bajo ninguna circunstancia el empleo de éste material con fines no éticos que infrinjan la ley**. Quien desee utilizar este material con fines éticos y de aprendizaje debe respetar las normas y abstenerse del abuso de las técnicas y/o herramientas que conlleven a cometer un delito. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables. Los creadores de la comunidad no asumimos ninguna responsabilidad por el mal uso del material brindado en éste repositorio.*
+## Quienes somos:
+HispanoSEC-Resources: es un repocitorio publico en github, creado, moderado y mantenido por los mienbros.
+Los miembros de HispanoSEC-Resources se comprometen a cumplir activamente el codigo de conducta.
+HispanoSEC-Resources es un repositorio de materia infosec de Whitehat y condena enérgicamente las activiades Blackhat o
+criminales en cualquiera de sus ramas.
+
+HispanoSEC-Resources es un repositorio de documentacion y recursos sobre temas relacionados con la seguridad de la
+información, las pruebas de penetración y la seguridad informática.
+
+Buscamos realizar investigación y educación (selflerning) sobre métodos y herramientas para el análisis y construcción
+de sistemas seguros y protegidos.
+Esto incluye métodos para especificar sistemas, desarrollar sistemas en formas de preservación de la corrección y verificar
+o probar los sistemas e infraestructuras existentes.
+
+Nuestro objetivo es construir una comunidad educativa y de practicantes de infosec.
+
+El objetivo principal de HispanoSEC-Resources es ayudar a las personas interesadas en el campo de la seguridad de la
+información con las últimas noticias, tutoriales y ayudar a las personas a proteger sus computadoras de las últimas
+amenazas informáticas.
+
+## *Disclaimer:*
+
+Know Hacking, Hacking, but not be a cybercriminals!
+
+Cualquier acción y / o actividad relacionada con el material contenido en este sitio web es de su exclusiva responsabilidad.
+
+Los creadores y colaboradores de HispanoSEC-Resources no serán responsables en caso de que se presenten cargos penales contra cualquier persona que utilice indebidamente la información de este sitio web para infringir la ley.
+
+Consulte las leyes de su provincia / país antes de acceder, usar o de cualquier otra manera utilizar estos materiales.
+
+El mal uso de la información en este sitio web puede dar lugar a cargos penales contra las personas en cuestión.
+
+Este sitio contiene informacion o direcciona a material que pueden ser potencialmente dañinos o peligrosos. Si no comprende completamente algo en este sitio, ¡SALGA DE AQUÍ!
+
+Estos materiales son solo para fines educativos y de investigación.
+
+No intente violar la ley con nada de lo aquí contenido. Si esta es su intención, ¡DEJE AHORA!
+
+El uso de las técnicas y herramientas disponibles está limitada a redes o sistemas personales o bajo el permiso y autorización del dueño de los mismos.
+Se recomienda contar con los servicios de un asesor legal, para que el permiso sea claro para la ley de tu region si vas a proveer algun servicio de infosec.
+
+Hemos aclarado los propósitos de HispanoSEC-Resources y hemos emitido advertencias.
+
+## *Codigo de conducta:*
+El uso de este sitio web constituye su aceptación de los siguientes términos:
+1. HispanoSEC-Resources no promueve ni fomenta los delitos informático en cuaquiera de sus ramas, o cualquier otra actividad ilegal.
+2. Toda la información proporcionada en este repocitorio es solo para fines educativos. El sitio no es responsable de ningún mal uso de la información.
+3. Toda la información en este repocitorio está destinada a desarrollar la actitud de Hacker Defense entre los usuarios y ayudar a prevenir los ataques de piratería.
+4. La palabra "Hack" o "Hacking" que se utiliza en este sitio se considerará como "Hack ético" o "Hacking ético", respectivamente.
+5. Creemos solo en White Hat Hacking. Por otro lado, condenamos Black Hat Hacking.
+6. Todo hacker ético debe aprender y contar con los mismos conocimientos que los piratas informáticos para asi lograr defenderse, y mejorar la seguridad de los sistemas.
+7. Nos reservamos el derecho de modificar el Descargo de responsabilidad en cualquier momento sin previo aviso.
 
 # Getting Started
 
