@@ -31,6 +31,9 @@ Lista de distintos malwares para descargar y analizar.
 * [Javascript Malware Explained](https://heimdalsecurity.com/blog/javascript-malware-explained/amp/)</br>
 Explicación sobre malware hecho en javascript, y sus efectos letales.
 
+* [Bitfrost](https://www.nyxbone.com/malware/bifrost.html)</br>
+Troyano que permite administrar o manipular la maquina infectada de manera remota y conectarse a través de Tor.
+
 * [Ransomware %100 Javascript](https://nakedsecurity.sophos.com/es/2016/06/20/ransomware-thats-100-pure-javascript-no-download-required)</br>
 Ransomware que es 100% puro JavaScript, sin necesidad de descargar
 
@@ -253,6 +256,9 @@ Explicación sobre el funcionamiento de las tablas rainbow para crackear passwor
 
 * [CrackStation](https://crackstation.net/)</br>
 Crackstation contiene tablas masivas precomputadas para crackear passwords
+
+* [Pwned Passwords](https://haveibeenpwned.com/Passwords)</br>
+Una lista con 55,278,657 passwords del mundo real expuestos en filtraciones de datos. Se pueden descargar por torrent, o si queremos crear una nueva password para alguna cuenta, primero podemos ingresarla en el formulario de ese sitio para saber si se encuentra en la lista de passwords filtrados.
 
 ### Tools:
 
