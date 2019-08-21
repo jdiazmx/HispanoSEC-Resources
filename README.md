@@ -1,6 +1,6 @@
 # HispanoSEC-Resources
 
-**Disclaimer:** *HispanoSEC es una comunidad ética de estudiantes de seguridad informática, y toda la información disponible en éste repositorio está destinada al aprendizaje. El uso de las técnicas y herramientas disponibles está limitada a redes o sistemas personales o bajo el permiso y autorización del dueño de los mismos. Todo hacker ético debe aprender y contar con los mismos conocimientos que los piratas informáticos para asi lograr defenderse, y mejorar la seguridad de los sistemas.
+**DISCLAIMER:** *HispanoSEC es una comunidad ética de estudiantes de seguridad informática, y toda la información disponible en éste repositorio está destinada al aprendizaje. El uso de las técnicas y herramientas disponibles está limitada a redes o sistemas personales o bajo el permiso y autorización del dueño de los mismos. Todo hacker ético debe aprender y contar con los mismos conocimientos que los piratas informáticos para asi lograr defenderse, y mejorar la seguridad de los sistemas.
 Los creadores de la comunidad **repudiamos y no permitimos bajo ninguna circunstancia el empleo de éste material con fines no éticos que infrinjan la ley**. Quien desee utilizar este material con fines éticos y de aprendizaje debe respetar las normas y abstenerse del abuso de las técnicas y/o herramientas que conlleven a cometer un delito. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables. Los creadores de la comunidad no asumimos ninguna responsabilidad por el mal uso del material brindado en éste repositorio.*
 
 # Getting Started
@@ -329,6 +329,9 @@ Descripción de los formatos de los distintos tipos de archivos con imágenes mu
 
 * [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit)</br>
 Imagen de docker que incluye decenas de herramientas de esteganografía, muy utiles para los CTFs.
+* [StegCracker](https://github.com/Paradoxis/StegCracker)</br>
+Herramienta para aplicar brufe-force y recuperar data oculta en los archivos.
+
 
 # Forensia
 
