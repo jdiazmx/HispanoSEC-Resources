@@ -1,7 +1,7 @@
 # HispanoSEC-Resources
 
 ## Quienes somos:
-HispanoSEC-Resources: es un repocitorio publico en github, creado, moderado y mantenido por los mienbros.
+HispanoSEC-Resources: es un repositorio publico en github, creado, moderado y mantenido por los mienbros.
 Los miembros de HispanoSEC-Resources se comprometen a cumplir activamente el codigo de conducta.
 HispanoSEC-Resources es un repositorio de materia infosec de Whitehat y condena enérgicamente las activiades Blackhat o
 criminales en cualquiera de sus ramas.
