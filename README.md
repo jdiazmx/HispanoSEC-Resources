@@ -310,6 +310,9 @@ Crackstation contiene tablas masivas precomputadas para crackear passwords
 * [Pwned Passwords](https://haveibeenpwned.com/Passwords)</br>
 Una lista con 55,278,657 passwords del mundo real expuestos en filtraciones de datos. Se pueden descargar por torrent, o si queremos crear una nueva password para alguna cuenta, primero podemos ingresarla en el formulario de ese sitio para saber si se encuentra en la lista de passwords filtrados.
 
+* [SecLists](https://github.com/danielmiessler/SecLists)</br>
+SecLists incluye varios wordlist, no solo para crackear passwords, sino con nombres de usuario comunes, nombres de directorios comunes para bruteforcear directorios en páginas web, y subdominios. Es el repositorio de wordlists administrado y más ampliamente usado por bug bounty hunters.
+
 ### Tools:
 
 * [Mimikats](https://github.com/gentilkiwi/mimikatz)</br>
