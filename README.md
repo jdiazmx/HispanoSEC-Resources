@@ -2,7 +2,7 @@
 
 # **HispanoSEC Resources**
 
-![](https://ismorbo.com/wp-content/uploads/2016/05/Elliot-Anderson-por-USA-Network.gif)
+![](secciones/HSEC.gif)
 
 ## Quienes somos:
 HispanoSEC-Resources: es un repositorio publico en github, creado, moderado y mantenido por los mienbros.
