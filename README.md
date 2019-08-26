@@ -1,5 +1,3 @@
-
-
 # **HispanoSEC Resources**
 
 ![](secciones/HSEC.gif)
@@ -367,7 +365,7 @@ Explicación sobre como construir un bad usb muchísimo más económico que el R
 * [Taller de lock picking](https://www.hackplayers.com/2011/08/taller-de-lock-picking-1-iniciacion.html)</br>
 Taller de la web de hackplayers que conta de tres artículos y nos explica de forma breve y entendible el funcionamiento interno de los candados, las distintas técnicas y herramientas empleadas para el lookpicking, videos para poder entenderlo más fácilmente. Enumera los distintos tipos de ganzúas existentes y recomienda comprar un juego profesional.
 
-### Tools
+### Tools:
 
 * [Kit de ganzúas, tensores y candados transparentes](https://articulo.mercadolibre.com.ar/MLA-792906545-kit-de-candado-transparente-17-pcs-cerrajeria-para-practica-_JM?quantity=1)</br>
 Les recomiendo enormemente comprarse éste juego de ganzúas ya que está muy barato a la época en la que estamos e incluye ganzúas de todos los tipos mencionados en la guía anterior, más dos candados transparentes con sus respectivas llaves, para experimentar viendo exactamente lo que pasa al abrir un candado. También cuenta con una balija para tenerlas ordenadas de forma cómoda. En mi caso, compré dos juegos pero que traen ganzúas del mismo tipo (en un juego me vinieron 10 del tipo "Bogota comercial", y en otro 10 del tipo "Gancho corto", junto con un candado transparente), pero lo pagué a un precio muy elevado, y solo tengo un tipo de candado, hay tipos de ganzúas que me faltan, y no me vino con una balija. Recomiendo enormemenete aprovechar que éste producto se encuentre disponible en Mercadolibre a éste precio. Tengan en cuenta que de todos modos son ganzúas que vienen de China, y no son de calidad profesinal, pero para empezar me parece una muy buena compra.
