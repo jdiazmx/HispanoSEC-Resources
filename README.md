@@ -256,7 +256,7 @@ Técnicas para bypassear firewalls o IDS/IPS mientras escaneamos puertos con nma
 * [Hacking mobile networks](https://www.owasp.org/images/0/0b/OWASP_MCT.pdf)</br>
 Guía de OWASP sobre ataques a redes móviles 2G y 3G.
 
-* [LAN Surfing - Javascript para ejecutar codigo arbitrario en routers] (https://www.pentestpartners.com/security-blog/lan-surfing-how-to-use-javascript-to-execute-arbitrary-code-on-routers/) </br>
+* [LAN Surfing - Javascript para ejecutar codigo arbitrario en routers](https://www.pentestpartners.com/security-blog/lan-surfing-how-to-use-javascript-to-execute-arbitrary-code-on-routers/)</br>
 
 
 ### Tools:
