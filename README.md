@@ -1,4 +1,8 @@
-# HispanoSEC-Resources
+
+
+# **HispanoSEC Resources**
+
+![](https://ismorbo.com/wp-content/uploads/2016/05/Elliot-Anderson-por-USA-Network.gif)
 
 ## Quienes somos:
 HispanoSEC-Resources: es un repositorio publico en github, creado, moderado y mantenido por los mienbros.
@@ -52,6 +56,7 @@ El uso de este sitio web constituye su aceptación de los siguientes términos:
 5. Creemos solo en White Hat Hacking. Por otro lado, condenamos Black Hat Hacking.
 6. Todo hacker ético debe aprender y contar con los mismos conocimientos que los piratas informáticos para asi lograr defenderse, y mejorar la seguridad de los sistemas.
 7. Nos reservamos el derecho de modificar el Descargo de responsabilidad en cualquier momento sin previo aviso.
+
 
 # Getting Started
 
@@ -175,6 +180,20 @@ Explicación del funcionamiento de los WAFs y los distintos métodos para bypass
 [Bypassing WAF in RCE (part 2)](https://medium.com/secjuice/web-application-firewall-waf-evasion-techniques-2-125995f3e7b0)</br>
 Técnicas para bypassear WAFs cuando existe una vulnerabilidad del tipo RCE.
 
+### Desafíos web:
+
+* [DVWA (Damn Vulnerable Web Application)](http://www.dvwa.co.uk/)</br>
+Para empezar a practicar desafíos web, pueden descargarse DVWA (Damn Vulnerable Web Application), que tiene distintos tipos de desafíos web para practicar de forma local. Tienen acceso al código fuente, asi que pueden analizarlo si no pueden explotarlo a través de black box (atacando sin saber el código fuente). Las soluciones de los desafíos están en Internet, por si se traban en alguno.
+
+* [Warzone elchaker.net](https://warzone.elhacker.net/)</br>
+En el warzone de elhacker.net hay desafíos de todo tipo. Hay desafíos web para principiantes, y otros bastante interesantes, que les recomiendo realizar. El server está caído de momento, pero seguramente vuelva a estar operativo.
+
+* [Retos DSA 2019 UNLP](https://retos.dsa2019.linti.unlp.edu.ar/)</br>
+Retos web bastante interesantes, algunos fáciles, otros bastante rebuscados, otros que nos enseñan muchas cosas nuevas. Éstos retos pertenecen a una materia que cursó LannerXIII.
+
+* [bWAPP (an extremely buggy web app!)](https://www.creadpag.com/2018/05/como-instalar-bwapp-en-kali-linux.html)</br>
+bWAPP es una aplicación parecida a DVWA, para realizar de forma local, en la cuál también podemos observar el código fuente de todos los retos. Incluye un número muchísimo más grande de vulnerabilidades web para testear que DVWA. Les recomiendo enormemente hacer varios desafíos de ésta web, ya que aquí aplicarán técnicas aprendidas en el libro de OWASP Testing Guide v4.0.
+
 ### Tools:
 
 * [Burpsuite Proffesional con crack](https://www.youtube.com/watch?v=aYwiY934Hh4)</br>
@@ -194,6 +213,23 @@ Tool más eficiente para bruteforcear subdominios.
 
 * [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)</br>
 Tool que recibe una lista de dominios y toma screenshots de las páginas, para hacer un reconocimiento visual de como se verían las páginas. Muy util cuando logramos enumerar una amplia cantidad de subdominios de una empresa.
+
+## Pluggins para Firefox:
+
+* [FoxyProxy](https://addons.mozilla.org/es/firefox/addon/foxyproxy-basic/)</br>
+Foxy proxy es un pluggin que hace bastante cómoda la labor web, para configurar proxys fácilmente, como por ejemplo, para enviar y recibir tráfico HTTP/HTTPS a través del intercepter proxy de la suite de Burpsuite o de OWASP ZAP, que son el tipo de herramienta más importante para emplear en la labor web. Podemos activar y desactivar el proxy cómodamente cuando queramos. También se puede dejar configurado un proxy para acceder a la red Tor, o proxys de distintas listas de Internet.
+
+* [Cookie Editor](https://addons.mozilla.org/en-US/firefox/addon/edit-cookie/)</br>
+Es un pluggin que nos permite visualizar y editar los nombres, valores, y flags de las cookies de forma muy sencilla. También podemos crear nuevas cookies, o eliminar otras existentes. Pluggin completamente útil para la labor de hacking web.
+
+* [Wappalyzer](https://www.wappalyzer.com/download)</br>
+Genial pluggin para un reconocimiento instantáneo de las tecnologías empleadas en la web. Puede mostrar información sobre los servidores y sus versiones, frameworks webs, frameworks js, lenguajes de programación, CDNs, PaaS, si usa CMS, entre otras cosas. Tool ultra recomendada.
+
+* [BuiltWith](https://addons.mozilla.org/en-US/firefox/addon/builtwith/)</br>
+Otro pluggin excelentísimo para reconocimiento sobre las tecnologías empleadas en la web, entre otras cosas. Diría que es mejor que Wappalyzer, pero siempre emplear las dos juntas. Nos brinda información mas detallada que Wappalyzer sobre las tecnologías empleadas, y otras funcionalidades, como las páginas que redirigen a éste sitio, o acceso a la información más detallada sobre las tecnologías detectadas por la web en distintos momentos, y cuando esas tecnologías se dejaron de detectar, pero solo podemos acceder a la sección de tecnologías detalladas en 5 webs al día si contamos con un plan free. Para desbloquear toda la funcionalidad hay que pagar algún plan, pero si utilizamos la función detallada de forma moderada, podemos aprovechar las 5 veces diarias permitidas, y lograr sacarle provecho a la herramienta sin necesidad de pagar un plan.
+
+*Recomiendo utilizar siempre éstos cuatro pluggins para realizar la labor de hacking web. Existen numerosos pluggins más, pero éstos son los cuatro más importantes. Se encuentran disponibles también para Chrome, y tal vez para otros browsers. El único que no está disponible para Chrome es el Cookie Editor, pero hay otro exactamente igual llamado EditThisCookie para dicho browser.*
+
 
 # Network hacking
 
