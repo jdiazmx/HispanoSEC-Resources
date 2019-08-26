@@ -212,7 +212,7 @@ Tool más eficiente para bruteforcear subdominios.
 * [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)</br>
 Tool que recibe una lista de dominios y toma screenshots de las páginas, para hacer un reconocimiento visual de como se verían las páginas. Muy util cuando logramos enumerar una amplia cantidad de subdominios de una empresa.
 
-## Pluggins para Firefox:
+### Pluggins para Firefox:
 
 * [FoxyProxy](https://addons.mozilla.org/es/firefox/addon/foxyproxy-basic/)</br>
 Foxy proxy es un pluggin que hace bastante cómoda la labor web, para configurar proxys fácilmente, como por ejemplo, para enviar y recibir tráfico HTTP/HTTPS a través del intercepter proxy de la suite de Burpsuite o de OWASP ZAP, que son el tipo de herramienta más importante para emplear en la labor web. Podemos activar y desactivar el proxy cómodamente cuando queramos. También se puede dejar configurado un proxy para acceder a la red Tor, o proxys de distintas listas de Internet.
