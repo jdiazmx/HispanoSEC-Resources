@@ -64,6 +64,7 @@ Diversos wargames que permiten iniciar en el mundo de la seguridad sin tener nin
 * [Crear laboratorio de pentesting con GNS3](https://www.dragonjar.org/creando-un-laboratorio-de-pentesting-gns3.xhtml)</br>
 Guía para la creación de laboratorio de pentesting con soporte para multidispositivos de diferentes fabricantes tales como Cisco, Juniper, Cumulus, Fortinet, PFsense etc., y de diferentes tecnologías de virtualización tales como Docker, QEMU, Dynamips, etc., además que nos ofrece la posibilidad de integrar nuestras máquinas virtuales de VirtualBox o VMware a nuestra topología de red, y software de análisis de red como Wireshark y SolarWinds.
 
+* [Payloads utiles para pentesting en paginas WEB/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/Intruders/BRUTELOGIC-XSS-STRINGS.txt) </br>
 
 # Misceláneas
 
@@ -254,6 +255,9 @@ Técnicas para bypassear firewalls o IDS/IPS mientras escaneamos puertos con nma
 
 * [Hacking mobile networks](https://www.owasp.org/images/0/0b/OWASP_MCT.pdf)</br>
 Guía de OWASP sobre ataques a redes móviles 2G y 3G.
+
+* [LAN Surfing - Javascript para ejecutar codigo arbitrario en routers] (https://www.pentestpartners.com/security-blog/lan-surfing-how-to-use-javascript-to-execute-arbitrary-code-on-routers/) </br>
+
 
 ### Tools:
 
