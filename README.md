@@ -363,7 +363,7 @@ Explicación sobre como construir un bad usb muchísimo más económico que el R
 # Lockpicking
 
 * [Taller de lock picking](https://www.hackplayers.com/2011/08/taller-de-lock-picking-1-iniciacion.html)</br>
-Taller de la web de hackplayers que conta de tres artículos y nos explica de forma breve y entendible el funcionamiento interno de los candados, las distintas técnicas y herramientas empleadas para el lookpicking, videos para poder entenderlo más fácilmente. Enumera los distintos tipos de ganzúas existentes y recomienda comprar un juego profesional.
+Taller de la web de hackplayers que consta de tres artículos y nos explica de forma breve y entendible el funcionamiento interno de los candados, las distintas técnicas y herramientas empleadas para el lookpicking (técnicas para forzar la apertura de un candado sin contar con la llave) y videos para poder entenderlo más fácilmente. Enumera los distintos tipos de ganzúas existentes y recomienda comprar un juego profesional.
 
 ### Tools:
 
