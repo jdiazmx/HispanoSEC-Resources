@@ -316,6 +316,15 @@ Paper que explica muchas vulnerabilidades en binarios relacionadas con la heap: 
 * [Format String](https://fundacion-sadosky.github.io/guia-escritura-exploits/format-string/5-format-string.html)</br>
 Artículo que explica como explotar una vulerabilidad del tipo format string en binarios.
 
+* [Guía de exploits](https://fundacion-sadosky.github.io/guia-escritura-exploits/)</br>
+Blog en español que nos da una guía práctica y teórica sobre distintas técnicas de explotación de binarios.
+
+
+### Desafíos de explotación de binarios:
+
+[Ejercicios sobre explotación de binarios](https://github.com/fundacion-sadosky/abopp)</br>
+Reposito con muchos ejercicios sobre explotación de binarios, basados en el blog en español que pubiqué anteriormente.
+
 # Privilege escalation
 
 * [Linux privilege escalation (resumed)](https://payatu.com/guide-linux-privilege-escalation/)</br>
