@@ -58,6 +58,12 @@ El uso de este sitio web constituye su aceptación de los siguientes términos:
 
 # Getting Started
 
+* [El Sendero del Hacker](http://index-of.co.uk/INFOSEC/129.el-sendero-del-hacker.pdf)</br>
+Libro en español, super introductorio sobre infosec, que explica la filosofía del hacker, conceptos básicos de redes, y comandos para empezar a utilizar Linux. Está un poco desactualizada, pero hay cosas interesantes y fáciles de aprender para los iniciados en la materia.
+
+* [Penetration Testing - A Hands-On Introduction to Hacking](https://repo.zenk-security.com/Magazine%20E-book/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf)</br>
+Libro en inglés mucho más completo, útil y práctico para empezar a aprender seguridad informática desde 0. Explica como armar nuestro laboratorio virtual, como llevar a cabo un reconocimiento sobre nuestro objetivo, y distintos tipos de ataques. Puede llegar a ser más dificil de entender que el anterior, y no explica conceptos tán básicos de redes, comandos de Linux ni la fiilosofía del hacker como el libro anterior. Si se les complica arrancando con éste, pueden primero consultar "El Sendero del Hacker".
+
 * [Overthewire - Sitio web de Wargames para empezar desde 0](https://overthewire.org/wargames/)</br>
 Diversos wargames que permiten iniciar en el mundo de la seguridad sin tener ningun tipo de conocimiento previo, siguiendo la guia recomendada por el sitio.
 
@@ -172,6 +178,9 @@ Explicación de la importancia de utilizar '===' en lugar '==' en PHP a la hora 
 * [Hacking JWT](https://medium.com/101-writeups/hacking-json-web-token-jwt-233fe6c862e6)</br>
 Artículo que da una breve explicación sobre JSON Web Token como método de manejo de sesiones en lugar de cookies, y las posibles formas de hackearlo.
 
+* [Bypassing XSS Detection Mechanisms](https://github.com/s0md3v/MyPapers/tree/master/Bypassing-XSS-detection-mechanisms)</br>
+Repositorio en el que explica una serie de técnicas para llevar adelante nuestro XSS cuando existen diversos mecanismos de detección de por medio.
+
 * [Bypassing Anti-CSRF tokens](https://haiderm.com/10-methods-to-bypass-cross-site-request-forgery-csrf/)</br>
 10 métodos para explotar un CSRF incluso cuando existen tokens anti-CSRF.
 
@@ -195,6 +204,9 @@ Retos web bastante interesantes, algunos fáciles, otros bastante rebuscados, ot
 
 * [bWAPP (an extremely buggy web app!)](https://www.creadpag.com/2018/05/como-instalar-bwapp-en-kali-linux.html)</br>
 bWAPP es una aplicación parecida a DVWA, para realizar de forma local, en la cuál también podemos observar el código fuente de todos los retos. Incluye un número muchísimo más grande de vulnerabilidades web para testear que DVWA. Les recomiendo enormemente hacer varios desafíos de ésta web, ya que aquí aplicarán técnicas aprendidas en el libro de OWASP Testing Guide v4.0.
+
+* [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo)</br>
+Máquina virtual con desafíos preinstalados, como DVWA, entre otros cuantos más que no menciono en ésta sección, y una serie de tools empleadas en hacking web para poder resolverlos, todos de forma local.
 
 ### Tools:
 
@@ -325,7 +337,7 @@ Blog en español que nos da una guía práctica y teórica sobre distintas técn
 
 ### Desafíos de explotación de binarios:
 
-[Ejercicios sobre explotación de binarios](https://github.com/fundacion-sadosky/abopp)</br>
+* [Ejercicios sobre explotación de binarios](https://github.com/fundacion-sadosky/abopp)</br>
 Reposito con muchos ejercicios sobre explotación de binarios, basados en el blog en español que pubiqué anteriormente.
 
 
@@ -511,6 +523,8 @@ Repo de github que incluye una gran cantidad de CTF's para realizar en un entorn
 * [Underc0de](https://underc0de.org/)
 * [elhacker.net](https://elhacker.net/)
 * [Null Byte](https://null-byte.wonderhowto.com/)
+* [Torum](http://torum6uvof666pzw.onion/index.php)</br>
+*Éste último foro necesita ser accedido mediante Tor*
 
 
 # Web utilities
