@@ -133,7 +133,7 @@ Reportes de vulnerabilidades del programa de hackerOne, para aprender nuevas té
 * [Brutelogic](https://brutelogic.com.br/blog/)</br>
 Sitio con multiples posts sobre distintas formas de realizar ataques XSS.
 
-* [Brutelogix XSS Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/Intruders/BRUTELOGIC-XSS-STRINGS.txt) </br>
+* [Brutelogic XSS Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/Intruders/BRUTELOGIC-XSS-STRINGS.txt) </br>
 Payloads para XSS extraídos del blog anterior de Brutelogic.
 
 * [Philippe Harewood](https://philippeharewood.com/)</br>
@@ -179,7 +179,7 @@ Explicación de la importancia de utilizar '===' en lugar '==' en PHP a la hora 
 Artículo que da una breve explicación sobre JSON Web Token como método de manejo de sesiones en lugar de cookies, y las posibles formas de hackearlo.
 
 * [Bypassing XSS Detection Mechanisms](https://github.com/s0md3v/MyPapers/tree/master/Bypassing-XSS-detection-mechanisms)</br>
-Repositorio en el que explica una serie de técnicas para llevar adelante nuestro XSS cuando existen diversos mecanismos de detección de por medio.
+Repositorio en el que se explica una serie de técnicas para llevar adelante nuestro XSS cuando existen diversos mecanismos de detección de por medio.
 
 * [Bypassing Anti-CSRF tokens](https://haiderm.com/10-methods-to-bypass-cross-site-request-forgery-csrf/)</br>
 10 métodos para explotar un CSRF incluso cuando existen tokens anti-CSRF.
