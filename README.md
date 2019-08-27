@@ -441,6 +441,9 @@ Libro introductorio sobre conceptos y algoritmos criptográficos.
 * [Manual sobre GPG](https://www.genbeta.com/desarrollo/manual-de-gpg-cifra-y-envia-datos-de-forma-segura)</br>
 Tutorial sobre el uso de la herramienta gpg para emplear cifrado simétrico o asimétrico, exportar la clave pública a un servidor de claves, cifrar, descifrar, firmar y comprobar la firma de los archivos.
 
+* [Diffie-Hellman](http://wiki.elhacker.net/seguridad/criptograf%C3%ADa/algoritmo-diffie-hellman)</br>
+Explicación sencilla y en español sobre el funcionamiento del algoritmo de intercambio de claves Diffie-Hellman.
+
 * [Poodle Attack](https://www.genbeta.com/seguridad/poodle-asi-es-el-ataque-que-deja-por-fin-obsoleto-a-sslv3)</br>
 Ataque criptográfico a SSL (completamente parchado por browsers y servers), pero interesante para analizar.
 
