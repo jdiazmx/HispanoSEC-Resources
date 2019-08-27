@@ -64,7 +64,6 @@ Diversos wargames que permiten iniciar en el mundo de la seguridad sin tener nin
 * [Crear laboratorio de pentesting con GNS3](https://www.dragonjar.org/creando-un-laboratorio-de-pentesting-gns3.xhtml)</br>
 Guía para la creación de laboratorio de pentesting con soporte para multidispositivos de diferentes fabricantes tales como Cisco, Juniper, Cumulus, Fortinet, PFsense etc., y de diferentes tecnologías de virtualización tales como Docker, QEMU, Dynamips, etc., además que nos ofrece la posibilidad de integrar nuestras máquinas virtuales de VirtualBox o VMware a nuestra topología de red, y software de análisis de red como Wireshark y SolarWinds.
 
-* [Payloads utiles para pentesting en paginas WEB/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/Intruders/BRUTELOGIC-XSS-STRINGS.txt) </br>
 
 # Misceláneas
 
@@ -124,8 +123,12 @@ Presentación sobre la metodología y herramientas actuales utilizadas para hack
 
 * [the unofficial HackerOne disclosure timeline](http://h1.nobbd.de/)</br>
 Reportes de vulnerabilidades del programa de hackerOne, para aprender nuevas técnicas empleadas por bug bounty hunters para atacar empresas grandes.
+
 * [Brutelogic](https://brutelogic.com.br/blog/)</br>
 Sitio con multiples posts sobre distintas formas de realizar ataques XSS.
+
+* [Brutelogix XSS Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/Intruders/BRUTELOGIC-XSS-STRINGS.txt) </br>
+Payloads para XSS extraídos del blog anterior de Brutelogic.
 
 * [Philippe Harewood](https://philippeharewood.com/)</br>
 Posts sobre fallas lógicas poco habituales descubiertas en Facebook por Philippe Harewood.
@@ -258,7 +261,6 @@ Guía de OWASP sobre ataques a redes móviles 2G y 3G.
 
 * [LAN Surfing - Javascript para ejecutar codigo arbitrario en routers](https://www.pentestpartners.com/security-blog/lan-surfing-how-to-use-javascript-to-execute-arbitrary-code-on-routers/)</br>
 
-
 ### Tools:
 
 * [Bettercap](https://github.com/bettercap/bettercap)</br>
@@ -272,6 +274,7 @@ Tool más rápida y eficiente para escanear puertos en redes grandes.
 
 * [LOIC](https://sourceforge.net/projects/loic/)</br>
 Tool para automatizar ataques DDoS.
+
 
 # Wi-Fi Hacking
 
@@ -305,6 +308,7 @@ Aquí se pueden descargar tablas rainbow para crackear passwords WPA/WPA2 a gran
 * [Pwning WiFi Networks con bettercap y PMKID](https://www.evilsocket.net/2019/02/13/Pwning-WiFi-networks-with-bettercap-and-the-PMKID-client-less-attack/)</br>
 Explicación sobre nuevos tipos de ataques para descubrir claves WPA PSK sin clientes conectados en el AP.
 
+
 # Binary Exploitation
 
 * [Corelan.be](https://www.corelan.be/index.php/articles/)</br>
@@ -319,11 +323,11 @@ Artículo que explica como explotar una vulerabilidad del tipo format string en 
 * [Guía de exploits](https://fundacion-sadosky.github.io/guia-escritura-exploits/)</br>
 Blog en español que nos da una guía práctica y teórica sobre distintas técnicas de explotación de binarios.
 
-
 ### Desafíos de explotación de binarios:
 
 [Ejercicios sobre explotación de binarios](https://github.com/fundacion-sadosky/abopp)</br>
 Reposito con muchos ejercicios sobre explotación de binarios, basados en el blog en español que pubiqué anteriormente.
+
 
 # Privilege escalation
 
@@ -337,6 +341,7 @@ Guía más amplia, con muchos más comandos para usar, pero no está tan explíc
 
 * [LinEnum](https://github.com/rebootuser/LinEnum)</br>
 Bash script automatizado para lanzar muchos de los comandos de las guías anteriores y checkear la posibilidad de escalación de privilegios en Linux.
+
 
 # Password cracking
 
@@ -368,10 +373,12 @@ Herramienta para extraer los passwords de windows directamente de la memoria.Tam
 * [hashcat](https://hashcat.net/hashcat/)</br>
 Herramienta más óptima para crackear passwords, con la posibilidad de emplear la GPU para acelerar al máximo el proceso.
 
+
 # Bad USB
 
 * [DigiDucky](https://underc0de.org/foro/hacking/(rubber-ducky)-digiducky-desde-0-hasta-la-intrusion/)</br>
 Explicación sobre como construir un bad usb muchísimo más económico que el Rubber Ducky.
+
 
 # Lockpicking
 
@@ -382,6 +389,7 @@ Taller de la web de hackplayers que consta de tres artículos y nos explica de f
 
 * [Kit de ganzúas, tensores y candados transparentes](https://articulo.mercadolibre.com.ar/MLA-792906545-kit-de-candado-transparente-17-pcs-cerrajeria-para-practica-_JM?quantity=1)</br>
 Les recomiendo enormemente comprarse éste juego de ganzúas ya que está muy barato a la época en la que estamos e incluye ganzúas de todos los tipos mencionados en la guía anterior, más dos candados transparentes con sus respectivas llaves, para experimentar viendo exactamente lo que pasa al abrir un candado. También cuenta con una balija para tenerlas ordenadas de forma cómoda. En mi caso, compré dos juegos pero que traen ganzúas del mismo tipo (en un juego me vinieron 10 del tipo "Bogota comercial", y en otro 10 del tipo "Gancho corto", junto con un candado transparente), pero lo pagué a un precio muy elevado, y solo tengo un tipo de candado, hay tipos de ganzúas que me faltan, y no me vino con una balija. Recomiendo enormemenete aprovechar que éste producto se encuentre disponible en Mercadolibre a éste precio. Tengan en cuenta que de todos modos son ganzúas que vienen de China, y no son de calidad profesinal, pero para empezar me parece una muy buena compra.
+
 
 # Radiofrecuencia
 
@@ -394,6 +402,7 @@ Paper que explica como romper el cifrado de las tarjetas Mifare que emplean RFID
 * [Clone key cars](https://www.youtube.com/watch?v=LbCDpbWrdlQ)</br>
 Éste video muestra como copiar una señal de 433MHz con Arduino, y retransmitirla. Con ésta técnica se podría captar la señal emitida por las llaves de un auto y luego transmitirla cuando queramos, logrando "clonar" la llave del auto.
 
+
 # IoT Hacking
 
 * [Samsung and LG TV hacking](https://ehacking.com.bo/como-hackear-facilmente-tu-smart-tv-samsung-y-lg/)</br>
@@ -402,6 +411,7 @@ Explicación sobre el funcionamiento interno de los televisores de marcas Samsun
 * [5 worst IoT hacking vulnerabilities](https://www.iotforall.com/5-worst-iot-hacking-vulnerabilities/)</br>
 Lista de 5 graves vulnerabilidades a distintos dispositivos IoT.
 
+
 # Social Engineering
 
 * [The Art of Human Hacking](http://index-of.es/Varios/The_Art_of_Human_Hacking.pdf)</br>
@@ -409,6 +419,7 @@ Libro bastante completo sobre técnicas y metodologías empleadas por ingenieros
 
 * [The Art of Deception](https://sbisc.ut.ac.ir/wp-content/uploads/2015/10/mitnick.pdf)</br>
 Libro de ingenieria social escrito por Kevin Mitnick, el hacker más famoso del mundo, especializado en ingeniería social.
+
 
 # Criptografía
 
@@ -423,6 +434,7 @@ Ataque criptográfico a SSL (completamente parchado por browsers y servers), per
 
 * [TLS Breacking Challange](https://ctf.rip/bsides-sf-ctf-2017-root-crypto-challenge/)</br>
 Guía para romper el cifrado asimétrico RSA empleado en TLS para retos CTF.
+
 
 # Esteganografía
 
@@ -450,6 +462,7 @@ Breve libro que explica procedimientos llevados a cabo a la hora de realizar un 
 
 * [Coold boot attacks](https://www.youtube.com/watch?v=XfUlRsE3ymQ)</br>
 Al apagar la PC los datos de la RAM permanecen por un instante de tiempo y pueden ser recuperados luego de apagar la PC. En la descripción del video hay links para crear un usb booteable que trata de leer los datos que aun persisten en la RAM.
+
 
 # Hardening
 
@@ -499,6 +512,7 @@ Repo de github que incluye una gran cantidad de CTF's para realizar en un entorn
 * [elhacker.net](https://elhacker.net/)
 * [Null Byte](https://null-byte.wonderhowto.com/)
 
+
 # Web utilities
 
 * [Shodan](https://www.shodan.io/)</br>
@@ -540,10 +554,12 @@ Sitio para comparar dos wordlists y ver que lineas aparecen solo en el primero d
 * [Python pentest tools](https://github.com/dloss/python-pentest-tools)</br>
 Compilado con muchísimas tools escritas en python para realizar pentesting en sus distintas áreas.
 
+
 # More books
 
 * [Libros para principiantes](https://foro.elhacker.net/dudas_generales/listado_de_libros_para_principiantes-t497312.0.html)</br>
 Listado completo de libros sobre programación, criptografía, y pentesting.
+
 
 # Random webs
 
