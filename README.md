@@ -444,6 +444,9 @@ Tutorial sobre el uso de la herramienta gpg para emplear cifrado simétrico o as
 * [Diffie-Hellman](http://wiki.elhacker.net/seguridad/criptograf%C3%ADa/algoritmo-diffie-hellman)</br>
 Explicación sencilla y en español sobre el funcionamiento del algoritmo de intercambio de claves Diffie-Hellman.
 
+* [Crypton](https://github.com/ashutosh1206/Crypton)</br>
+Repositorio de github que consiste en la explicación y la implementación de todos los ataques existentes en varios sistemas de cifrado, firmas digitales, métodos de autenticación, junto con ejemplos de desafíos CTF.
+
 * [Poodle Attack](https://www.genbeta.com/seguridad/poodle-asi-es-el-ataque-que-deja-por-fin-obsoleto-a-sslv3)</br>
 Ataque criptográfico a SSL (completamente parchado por browsers y servers), pero interesante para analizar.
 
