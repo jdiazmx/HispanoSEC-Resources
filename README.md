@@ -139,6 +139,18 @@ Sitio con multiples posts sobre distintas formas de realizar ataques XSS.
 * [Brutelogic XSS Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/Intruders/BRUTELOGIC-XSS-STRINGS.txt) </br>
 Payloads para XSS extraídos del blog anterior de Brutelogic.
 
+* [Tutorial sobre SQL Injection en MySQL](https://foro.elhacker.net/nivel_web/gran_tutorial_sobre_inyecciones_sql_en_mysql-t247535.0.html)</br>
+Tutorial en español que explica la teoría detrás de las inyecciónes SQL, y los procedimientos para realizar manualmente una inyección SQL en el DBMS MySQL. Dependiendo el DBMS la metodología para realizar una inyección SQL cambia, si quieren consultar como realizar inyecciones SQL de forma manual en otros DBMS, pueden consultar el libro OWASP Testing Guide v4, o The Web Application Hackers Handbook, Finding and Exploiting Security Flaws seccond edition.
+
+* [CSRF](https://foro.elhacker.net/nivel_web/tutorial_vulnerabilidad_csrf_by_shadinessdark_colaboracion_de_zero_bits-t268887.0.html)</br>
+Tutorial en español explicando la vulnerabilidad del tipo CSRF (Cross Site Request Forguery) de forma muy entendible y completa.
+
+* [RFI](https://www.youtube.com/watch?v=e5yGxP0XqJQ)</br>
+Video tutorial en español sobre como explotar una vulnerabilidad del tipo RFI (Remote File Inclusion), y como conducirlo a un RCE, incluyendo una webshell en la web que estamos atacando.
+
+* [Clickjacking](https://backtrackacademy.com/articulo/que-es-el-clickjacking)</br>
+Breve explicación en español y con imágenes sobre la vulnerabilidad Clickjacking (también conocida como UI Redressing), y que contramedida emplear en nuestra web para evitar ésta vulnerabilidad.
+
 * [Philippe Harewood](https://philippeharewood.com/)</br>
 Posts sobre fallas lógicas poco habituales descubiertas en Facebook por Philippe Harewood.
 
