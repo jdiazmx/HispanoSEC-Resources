@@ -87,6 +87,9 @@ Explicación de ésta maravillosa técnica para hackear con solo copiar y pegar 
 * [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/)</br>
 Lista de distintos malwares para descargar y analizar.
 
+* [theZoo](https://github.com/ytisf/theZoo)</br>
+Repo de github repleto de malwares conocidos para poder realizar un análisis de ellos.
+
 * [Javascript Malware Explained](https://heimdalsecurity.com/blog/javascript-malware-explained/amp/)</br>
 Explicación sobre malware hecho en javascript, y sus efectos letales.
 
@@ -210,7 +213,7 @@ Máquina virtual con desafíos preinstalados, como DVWA, entre otros cuantos má
 
 ### Tools:
 
-* [Burpsuite Proffesional con crack](https://www.youtube.com/watch?v=aYwiY934Hh4)</br>
+* [Burpsuite Proffesional](https://www.youtube.com/watch?v=aYwiY934Hh4)</br>
 Herramienta N°1 para la labor de hacking web. Mejor que OWASP ZAP.
 
 * [brutespray](https://github.com/x90skysn3k/brutespray)</br>
@@ -225,8 +228,14 @@ Tools para enumerar subdominios a través de distintas fuentes (sin usar fuerza 
 * [massdns](https://github.com/blechschmidt/massdns)</br>
 Tool más eficiente para bruteforcear subdominios.
 
+* [Gobuster](https://github.com/OJ/gobuster)</br>
+Tool más eficiente para bruteforcear directorios. También se puede emplear para bruteforcear subdominios, pero para ello conviene emplear massdns, la cuál contine resolvers múltiples. No realiza un escanéo recursivo por cada directorio encontrado. Si queremos que el bruteforceo sea recursivo, podemos emplear las tools dirb, o DirBuster de OWASP. La eficiencia de Gobuster se basa en ser un binario escrito en Go, en lugar de un script interpretado.
+
 * [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)</br>
 Tool que recibe una lista de dominios y toma screenshots de las páginas, para hacer un reconocimiento visual de como se verían las páginas. Muy util cuando logramos enumerar una amplia cantidad de subdominios de una empresa.
+
+* [XMind 8](https://www.xmind.net/download/xmind8)</br>
+Herramienta gráfica para mantener un orden sobre el trabajo que estamos realizando cuando atacamos a una web amplia, con muchos subdominios y funcionalidades. Ésta herramienta puede ser empleada para muchas otrás cosas más allá del pentest, pero es bastante útil y recomendada para emplear en la labor pentest y hacking web.
 
 ### Pluggins para Firefox:
 
@@ -456,6 +465,9 @@ Guía para romper el cifrado asimétrico RSA empleado en TLS para retos CTF.
 
 # Esteganografía
 
+* [Steghide para ocultar datos en imágenes](https://esgeeks.com/steghide-para-ocultar-datos-en-imagenes/)</br>
+Explicación muy sencilla sobre el concepto de esteganografía, la técnica del LSB (bit menos significativo), para ocultar información en imágenes, y explicación del empleo de la tool steghide para ocultar y recuperar información en una imágen.
+
 * [Cheatsheet Steganography 101](https://pequalsnp-team.github.io/cheatsheet/steganography-101)</br>
 Cheatsheet básico sobre métodos empleados en esteganografía.
 
@@ -469,6 +481,7 @@ Descripción de los formatos de los distintos tipos de archivos con imágenes mu
 
 * [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit)</br>
 Imagen de docker que incluye decenas de herramientas de esteganografía, muy utiles para los CTFs.
+
 * [StegCracker](https://github.com/Paradoxis/StegCracker)</br>
 Herramienta para aplicar brufe-force y recuperar data oculta en los archivos.
 
@@ -516,6 +529,9 @@ Guía de OWASP sobre buenas prácticas para desarrollar aplicaciones seguras.
 * [WarZone elhacker.net](warzone.elhacker.net/)
 * [CTF Platforms](https://github.com/We5ter/Awesome-Platforms/blob/master/CTF-Platforms.md)</br>
 Repo de github que incluye una gran cantidad de CTF's para realizar en un entorno local.
+* [Awesome CTF](https://github.com/apsdehal/awesome-ctf)</br>
+Repo de github que incluye una gran lista de frameworks CTF, librerías, recursos, tools y tutoriales. Ésta lista ayuda a los iniciados en retos CTF para encontrar lodo lo relacionado a CTFs en un solo lugar.
+
 
 # Blogs
 * [Hacking Articles](https://www.hackingarticles.in/)
